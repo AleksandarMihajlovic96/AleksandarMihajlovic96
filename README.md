@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleksandar Mihajlovic
 - 👀 I’m interested in programming, gaming and sports
-- 🌱 I’m currently working in Angular
-- 💞️ I’m looking to collaborate on Angular project
+- 🌱 I’m currently working in React and Angular
+- 💞️ I’m looking to collaborate on React or Angular project
 - 📫 How to reach me aleksandar.mihajlovic96@yahoo.com
